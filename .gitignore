@@ -1,0 +1,9 @@
+nb-configuration.xml
+target/archive-tmp
+target/generated-sources
+target/maven-archiver
+target/maven-status
+target/IdeaTestProject-1.0.0.jar
+
+
+
